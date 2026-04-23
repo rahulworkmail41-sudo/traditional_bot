@@ -11,6 +11,7 @@ This bot has been created using [Bot Framework](https://dev.botframework.com), i
 git clone https://github.com/rahulworkmail41-sudo/traditional_bot.git
 ```
 - Activate your desired virtual environment
+- cd to the traditional_bot folder
 - In the terminal, type `pip install -r requirements.txt`
 - Run your bot with `python app.py`
 
